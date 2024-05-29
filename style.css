@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin-top: 10px;
+}
+
+img {
+    width: 170.92px;
+    height: 230px;
+    display: inline-block;
+}
